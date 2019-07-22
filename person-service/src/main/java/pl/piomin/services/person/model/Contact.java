@@ -1,7 +1,7 @@
 package pl.piomin.services.person.model;
 
 public class Contact {
-
+        private String test;
 	private String phoneNo;
 	private String email;
 
